@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-06-14T11:28:46.511Z",
-  "buildId": "2.0.211",
+  "generatedAt": "2026-06-14T12:07:29.562Z",
+  "buildId": "2.0.212",
   "baseUrl": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-module-cdn@main/dist/cdn",
   "publishMode": "jsdelivr",
   "scripts": [
     {
       "name": "vendor",
-      "file": "vendor.2.0.211.js",
+      "file": "vendor.2.0.212.js",
       "order": 1,
       "rawBytes": 194960,
       "gzipBytes": 61100,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-module-cdn@main/dist/cdn/vendor.2.0.211.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-module-cdn@main/dist/cdn/vendor.2.0.212.js"
     },
     {
       "name": "app",
-      "file": "app.2.0.211.js",
+      "file": "app.2.0.212.js",
       "order": 2,
-      "rawBytes": 2089132,
-      "gzipBytes": 637912,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-module-cdn@main/dist/cdn/app.2.0.211.js"
+      "rawBytes": 2089015,
+      "gzipBytes": 637883,
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-module-cdn@main/dist/cdn/app.2.0.212.js"
     }
   ],
   "styles": [
     {
       "name": "app",
-      "file": "app.2.0.211.css",
+      "file": "app.2.0.212.css",
       "order": 1,
       "rawBytes": 266467,
       "gzipBytes": 65499,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-module-cdn@main/dist/cdn/app.2.0.211.css"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-module-cdn@main/dist/cdn/app.2.0.212.css"
     }
   ]
 }
