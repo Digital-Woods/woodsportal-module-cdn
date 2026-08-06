@@ -1,0 +1,1 @@
+const e={fields:[{name:"name",label:"Name",type:"string",required:!0},{name:"email",label:"Email",type:"string",required:!1},{name:"phone",label:"Phone",type:"string",required:!1}]},a={data:e};export{e as data,a as default};
